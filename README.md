@@ -1,8 +1,8 @@
 # ARC-REACTOR
 ## Hello World
 ### my name is **yzc**
-  void main()
+```  void main()
   {
   printf("L love U";
-  }
+  }```
 #### ffffff`fff`ff
